@@ -1,6 +1,6 @@
 # Guided waves
 
-In this homework, we are going to visualize the fields of guided waves to gain some intuition. We will start with examples of $TE_{10}$ wave and general $TE_{mn}$ waves, then you will apply similar methods to look at TM waves. Please see the jupyter notebook `waveguid.ipynb` for detailed description of the homwework.
+This is the solution to the homework problems described in <https://github.com/yuanyajie/Physics422-waveguide>. The solution can be found in the jupyter notebook `waveguide-solution.ipynb`.
 
 ## How to Run the Jupyter Notebook
 
